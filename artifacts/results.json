@@ -1,0 +1,9 @@
+{
+  "suite": "checkout-smoke",
+  "passed": 18,
+  "failed": 0,
+  "evidence": [
+    "artifacts/checkout-trace.zip",
+    "artifacts/results.json"
+  ]
+}
